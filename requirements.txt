@@ -1,0 +1,4 @@
+aiogram
+pytube
+asyncio
+aiohttp
